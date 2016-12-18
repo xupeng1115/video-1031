@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>测试</title>
+	</head>
+		
+	<body>
+		
+		<script type="text/javascript" src="js/zepto_1.1.3.js"></script>
+
+		<script>
+		console.log(124234);
+		Zepto(function($){
+			$.ajax({
+				type:"GET",
+				url:"direct.json",
+				success:function(data){
+					console.log(data);
+				}
+			})
+		})
+			
+		</script>
+		
+	</body>
+</html>

@@ -1,0 +1,18 @@
+{
+	"msg":0,
+	"error":0,
+	"data":{
+		"directEnd":{
+			"viewNumber":345,
+			"likeNumber":91,
+			"name":"陈撒耶",
+			"managerImgurl":"img/head.png",
+	    	"title":"如何在逆回购中获得收益等等等等等等等等等等等等",
+	    	"attention":false,
+	    	"bankName":"平安银行陆家嘴支行",
+	    	"directImgUrlOne":"img/direct.png",
+	    	"backViewUrl":""
+		}
+	}
+}
+

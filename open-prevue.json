@@ -1,0 +1,17 @@
+{
+	"msg":0,
+	"error":0,
+	"data":{
+		"openPrevue":{
+		    "name":"陈撒耶",
+		    "title":"陈老师教你如何在逆回购过程中获得收益",
+		    "txt":"虽然国债收益率不断下降，但现在三年期国债收益率也有3.8%，五年期的收益率有4.17%，比银行同期存款收益率高。更何况，国债与其他理财国债与其他理财...",
+		    "time":1478590200,
+		    "attention":false,
+		    "remain":false,
+		    "bankName":"平安银行陆家嘴支行",
+		    "managerImgUrl":"img/head.png",
+		    "directImgUrlOne":"img/direct.png"
+		}
+	}
+}

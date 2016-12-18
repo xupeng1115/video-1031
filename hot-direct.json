@@ -1,0 +1,36 @@
+{
+	"msg":0,
+	"error":0,
+	"data":{
+		"hotDirect":[
+		       {
+		    	   "directImgUrlTwo":"img/item01.png",
+		    	   "title":"理财产品如何搭配"
+		       },
+		       {
+		    	   "directImgUrlTwo":"img/item02.png",
+		    	   "title":"如何在逆回购中获得收益等等等等等等等等等等等等"
+		       },
+		       {
+		    	   "directImgUrlTwo":"img/item01.png",
+		    	   "title":"如何在逆回购中获得收益等等等等等等等等"
+		       },
+		       {
+		    	   "directImgUrlTwo":"img/item02.png",
+		    	   "title":"理财产品如何搭配"
+		       },
+		       {
+		    	   "directImgUrlTwo":"img/item02.png",
+		    	   "title":"理财产品如何搭配"
+		       },
+		       {
+		    	   "directImgUrlTwo":"img/item01.png",
+		    	   "title":"如何在逆回购中获得收益等等等等等等等等"
+		       },
+		       {
+		    	   "directImgUrlTwo":"img/item01.png",
+		    	   "title":"如何在逆回购中获得收益等等等等等等等等"
+		       } 
+		]
+	}
+}
